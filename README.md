@@ -12,11 +12,18 @@ Welcome to Axol's Software. We are the creators of some SMG4 themed mods like SM
 
 Discord Username: axol.oti (Originally AXOL#9358) + bellemr.dev (Originally Belle MR#7324) | Revolt Username: AXOL#6594 + AxolAlt#8215
 
-### Belle Development Stuff
+### Axol's Software Projects
+
+| Project Name                                                         | Project State | License                                                                 |
+|----------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|
+| [Axol Revolt Bot](https://gitlab.com/bellemr/axolbot)                | Released      | ![License](https://img.shields.io/gitlab/license/bellemr%2Faxolbot)     |
+| [Custom Commands Revolt Bot](https://gitlab.com/bellemr/ccrevoltbot) | Early Access  | ![License](https://img.shields.io/gitlab/license/bellemr%2Fccrevoltbot) |
+
+### Axol's Software Social Media pages
 
 Servers: [Discord Server](https://discord.gg/hrUV9aq3p2) | [Guilded Server](https://www.guilded.gg/Axols-Software) | [Revolt Server](https://rvlt.gg/WJmNxmkv)
 
-Games: [Gamejolt](https://gamejolt.com/@BelleMetaRunner) - [Itch.io](https://bellemetarunner.itch.io) - [Roblox](https://www.roblox.com/users/6002597529/profile)
+Games: [Gamejolt](https://gamejolt.com/@BelleMetaRunner) - [Itch.io](https://bellemetarunner.itch.io) - [Roblox](https://www.roblox.com/users/6002597529/profile) - [Roblox Group](https://www.roblox.com/communities/34828683)
 
 Social Media Pages: [Youtube Channel](https://www.youtube.com/channel/UCCYCRAt1srptO3dc7eeN4Yw) - [Bluesky](https://bsky.app/profile/did:plc:jcoqzgcqgtye7vmjhbjszpfd) - [X (Twitter) Account](https://twitter.com/BelleMRdev) - [Reddit Account](https://www.reddit.com/user/BelleMR)
 
